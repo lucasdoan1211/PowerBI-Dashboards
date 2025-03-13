@@ -42,3 +42,24 @@ Features:
 Use Case:
 Designed for sales managers and business analysts to evaluate market demand, advertising strategies and optimize sales strategies.
 
+3️⃣ Startup Statistics Dashboard: https://app.powerbi.com/view?r=eyJrIjoiODJhNmYxMGUtOTAwMS00ZGExLWJjN2MtMDg1MWQwM2NkNzY0IiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9
+
+
+Overview:
+
+This dashboard provides key insights into startup performance, funding trends, and industry growth, offering a data-driven view of the startup ecosystem.
+
+Features:
+
+🚀 Funding Trends: Analysis of funding rounds and investment patterns.
+
+📊 Industry Insights: Breakdown of startups by sector and growth rates.
+
+🌍 Geographical Distribution: Hotspots for startup activity.
+
+📈 Survival & Success Rates: Factors influencing startup success or failure.
+
+Use Case:
+
+Ideal for entrepreneurs, investors, and analysts looking to understand startup trends and make informed decisions.
+
