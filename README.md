@@ -3,6 +3,7 @@ This repository contains interactive dashboards designed to analyze and visualiz
 
 📊 Projects
 1️⃣ Construction Machinery Sales Performance Dashboard (2021): https://app.powerbi.com/view?r=eyJrIjoiNjg5ZDI0MzEtN2QwYy00ZDM3LTg2MjctNmM4ODllYzI5YjBhIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9 
+
 Overview:
 This dashboard presents a comprehensive analysis of construction machinery sales performance in 2021. It tracks sales trends, regional performance, and customer insights to assess business growth.
 
@@ -22,6 +23,7 @@ Use Case:
 Designed for sales managers and business analysts to evaluate market demand, advertising strategies and optimize sales strategies.
 
 2️⃣ Demographic Loan Approval Statistics Dashboard: https://app.powerbi.com/view?r=eyJrIjoiODc3ZjM0YmYtYWNhMC00Y2ZmLWIwOTUtZjI1NjI2MmFmZjViIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9
+
 
 Overview:
 This dashboard analyzes demographic trends in loan approvals, highlighting key factors affecting approval rates across different groups.
