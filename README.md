@@ -9,10 +9,15 @@ This dashboard presents a comprehensive analysis of construction machinery sales
 Features:
 
 📈 Sales Trends: Monthly and quarterly sales performance.
+
 🌍 Regional Analysis: Sales distribution across different locations.
+
 🏗 Product Performance: Best-selling machinery and revenue contribution.
+
 📊 Customer Insights: Buyer demographics and purchasing patterns.
+
 📊 Marketing Campaigns Insights: Effectiveness of advertising channels
+
 Use Case:
 Designed for sales managers and business analysts to evaluate market demand, advertising strategies and optimize sales strategies.
 
@@ -24,8 +29,12 @@ This dashboard analyzes demographic trends in loan approvals, highlighting key f
 Features:
 
 🏦 Approval Overview: Loan approval/rejection summary
+
 🏠 Demographic Breakdown: Analysis by age, income, employment, and credit score.
+
 📊 Loan Type Analysis: Approval rates by loan type and purpose.
+
 ⚖️ Disparity Insights: Identifying patterns in approval discrepancies.
+
 Use Case:
 Useful for financial analysts, lenders, and policymakers to understand loan approval dynamics and improve equitable lending practices.
